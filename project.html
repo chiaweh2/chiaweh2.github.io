@@ -1,22 +1,14 @@
 ---
 layout: default
 make-smaller-titles: true
-thumbnail : book
 ---
 
 
 <div class="container-fluid index">
-  <div class="row index all-posts">
-    
-    <div class="col-md-12 main content-panel">
-      
-            <div class="gravatar">
-                <img src="{{ site.title_image }}" class="img-circle about-image" height="160" width="150" alt="{{ site.title }}" />
-            </div>
+  <div class="row">
 
-            <h1 class="header author-header" itemprop="headline">{{ site.author_name }}</h1>
-    
-    <h2 class="header" itemprop="headline">Project</h2>
+      <h1 class="header author-header" itemprop="headline"><font color="white">Project</font></h1>
+
 
       {% for category in site.categories %}
       {% if category contains "post"%}

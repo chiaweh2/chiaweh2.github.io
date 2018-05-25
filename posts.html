@@ -1,16 +1,13 @@
 ---
 layout: default
 make-smaller-titles: true
-thumbnail : paper
 ---
 
 
 <div class="container-fluid index">
-  <div class="row index all-posts">
+  <div class="row">
 
-
-    <h1 class="header author-header">{{ site.author_name }}</h1>
-    <h2 class="header" itemprop="headline">Posts</h2>
+    <h1 class="header author-header" itemprop="headline"><font color="white">Post</font></h1>
 
     {% if category contains "post" %}
     {% for post in site.posts %}
