@@ -5,27 +5,19 @@ description: "Chia-Wei Hsu's space"
 baseurl: ""
 url: ""
 title_description: "A place for most updated news about Chia-Wei Hsu"
-title_image: "https://www.dropbox.com/s/e2yv9pn7cgx34g5/IMG_2632.JPG?dl=0"
+title_image: "https://chiaweh2.github.io/IMG_2632.JPG"
 google_analytics: "UA-20365477-4"
-disqus_account: cartenoire
-github_repository: https://github.com/jacobtomlinson/carte-noire
+github_repository: https://github.com/chiaweh2
 addthis_id: ra-513c6fa83da6ec67
 post_limit: 5
 
 # Social usernames/URLs
-twitter_username: _jacobtomlinson
-github_username:  jacobtomlinson
-instagram_username: 
-reddit_username: 
-linkedin_link: http://carte-noire.jacobtomlinson.co.uk/
-google_plus_link: http://carte-noire.jacobtomlinson.co.uk/
-stackoverflow_link: http://carte-noire.jacobtomlinson.co.uk/
-xing_link:
-facebook_link:
+github_username:  chiaweh2
+linkedin_link: https://www.linkedin.com/in/chia-wei-hsu/
 
 # Footer
-footer_left: "Made with <i class=\"fa fa-heart\"></i> by <a href=\"https://twitter.com/_JacobTomlinson\">Jacob Tomlinson</a>"
-footer_right: "&lt;/&gt; on <a href=\"https://github.com/jacobtomlinson/carte-noire\">Github</a> &nbsp;<i class=\"fa fa-github-alt\"></i>"
+footer_left: "Made by <a href=\"https://twitter.com/_JacobTomlinson\">Jacob Tomlinson</a>"
+footer_right: "Modifide by Chia-Wei Hsu"
 
 # Build settings
 markdown: kramdown
