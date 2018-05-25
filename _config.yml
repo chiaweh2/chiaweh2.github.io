@@ -1,11 +1,11 @@
 # Site settings
-title: "Carte Noire"
-email: jacob@jacobtomlinson.co.uk
-description: "A dark blog theme for Jekyll."
+title: "Chia-Wei Hsu"
+email: joedhsu@gmail.com
+description: "Chia-Wei Hsu's space"
 baseurl: ""
-url: "http://carte-noire.jacobtomlinson.co.uk/"
-title_description: "A dark blog theme for Jekyll focusing on a clear reading experience. Large text and a narrow body makes carte noire a gorgeous read. With excellent code snippet support and integrated tools such as AddThis and Disqus giving your Jekyll blog all the functionality your users expect."
-title_image: "https://www.gravatar.com/avatar/00000000000000000000000000000000?s=500&d=mm"
+url: ""
+title_description: "A place for most updated news about Chia-Wei Hsu"
+title_image: "https://www.dropbox.com/s/e2yv9pn7cgx34g5/IMG_2632.JPG?dl=0"
 google_analytics: "UA-20365477-4"
 disqus_account: cartenoire
 github_repository: https://github.com/jacobtomlinson/carte-noire
