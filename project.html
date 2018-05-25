@@ -9,11 +9,52 @@ make-smaller-titles: true
 
       <h1 class="header author-header" itemprop="headline"><font color="white">Project</font></h1>
 
+			<br/>
+			<br/>
+<hr/>
+			<div align='left'>
+			<h2 class='header'><font color="orange">Highlights</font></h2>
+      </div>
+<ol>
+			<br/>
+			<li> Used Monte Carlo error analysis to show the first detection of sea level fingerprint by using NASA GRACE satellite data. (Highlighted by
+				<a href="https://www.nature.com/news/global-fingerprints-of-sea-level-rise-revealed-by-satellites-1.22588">
+        <font color='orange'>Nature</font>
+        </a>,
+        <a href="https://www.nasa.gov/feature/jpl/nasauci-find-evidence-of-sea-level-fingerprints">
+        <font color='orange'>NASA/JPL</font>
+        </a>,
+				<a href="https://news.agu.org/press-release/researchers-find-direct-evidence-of-sea-level-fingerprints/">
+        <font color='orange'>AGU</font>
+        </a> and
+				<a href="https://news.uci.edu/2017/09/07/uci-jpl-investigators-find-direct-evidence-of-sea-level-fingerprints/">
+        <font color='orange'>UCI</font>
+        </a>)</li>
+			<br/>
+			<li> Optimized the spatial and temporal sea level data by integrating various spatially sparse in-situ dataset with globally covered remote sensing dataset through spatial kriging (Gaussian process regression).</li>
+			<br/>
+			<li> Proficiency with various remote sensing data including GRACE, Altimetry, Landsat satellite imagery for extracting the useful physical signals like water/ice mass changes in land hydrology, cryosphere, and ocean.</li>
+			<br/>
+			<li> Applied machine learning technique and established an artificial neural network for a classification problem (using logistic regression) which recognizes the unique spatial pattern in the atmospheric circulation.</li>
+			<br/>
+			<li> Optimized and tested the simulation of mesoscale atmospheric convection by combining different numerical methods and by introducing parallel computing.</li>
+			<br/>
+			<li> Classified the hurricane/typhoon based on rainfall events and tracks in the southwest Pacific area in the past 40 years and further project the possible future changes through multivariate regression.</li>
+			<br/>
+</ol>
+<hr/>
+<br/>
+<br/>
+
+
+
 
       {% for category in site.categories %}
       {% if category contains "post"%}
       {% else %}
       <div class="col-md-12 content-panel articles">
+
+
         <h2 id="{{ category | first }}-ref">{{ category | first }}</h2>
         <ul>
           {% for posts in category %}
