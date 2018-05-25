@@ -12,6 +12,8 @@ thumbnail : book
     <h2 class="header" itemprop="headline">Project</h2>
 
       {% for category in site.categories %}
+      {% if category contains "posts"%}
+      {% else %}
       <div class="col-md-12 content-panel articles">
         <h2 id="{{ category | first }}-ref">{{ category | first }}</h2>
         <ul>
@@ -23,9 +25,9 @@ thumbnail : book
               </li>
             {% endfor %}
           {% endfor %}
-
         </ul>
       </div>
+      {% endif %}
       {% endfor %}
 
   </div>
