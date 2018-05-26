@@ -23,13 +23,12 @@ make-smaller-titles: true
         <ul>
            {% endif %}
       {% endif %}
-
-          <li>
            {% if post.categories contains "post" %}
+          <li>
             <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
             <small class="hidden-xs">{{ post.date | date: "%B %-d, %Y" }}</small>
-           {% endif %}
           </li>
+           {% endif %}
       {% if forloop.last %}
         </ul>
       </div>
@@ -37,11 +36,11 @@ make-smaller-titles: true
         {% if this_year != next_year %}
           </ul>
         </div>
-           {% if post.categories contains "post" %}
+
         <div class="col-md-12 content-panel articles">
           <h2 id="{{ next_year }}-ref">{{next_year}}</h2>
           <ul>
-           {% endif %}
+
         {% endif %}
       {% endif %}
 
