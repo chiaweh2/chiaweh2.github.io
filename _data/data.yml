@@ -1,0 +1,27 @@
+skills:
+    title: Skills &amp; Proficiency
+    skills:
+        - skill:
+          name: Fortran & C++
+          level: 91%
+        - skill:
+          name: Python & R
+          level: 92%
+        - skill:
+          name: Scikit-learn & TensorFlow
+          level: 61%
+        - skill:
+          name: SQL
+          level: 65%
+        - skill:
+          name: HTML5 & CSS
+          level: 70%
+        - skill:
+          name: PHP & javascript
+          level: 69%
+        - skill:
+          name: MPI & OpenMP
+          level: 79%
+        - skill:
+          name: Unittest & pytest
+          level: 55%
