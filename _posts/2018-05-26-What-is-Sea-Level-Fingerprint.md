@@ -29,8 +29,7 @@ In another word, the **global** sea level rises when water mass is added into th
 You may notice that I put and emphasize the word "**global**" in the above sentence.
 Base on the recent remote sensing observation, mass increase over the ocean is contributed by ice sheets(), land water mass(including hydrological cycle, glacier, and ice cap), and atmospheric water content.
 The figure below is show how each component contribute to the "**global**" mean sea level changes.
-![Thumper](https://chiaweh2.github.io/figures/plot_gsl.html)
-
+![GMSL](https://plot.ly/~chiaweh2/15.embed)
 
 
 The concept is rather straight forward.
@@ -43,8 +42,3 @@ However, sea level will not change uniformly over the entire global ocean when y
 The **redistribution of water mass** cause two instantaneous responses within the Earth system.
 1. _Changes of Gravity field_ due to mass redistribution.
 2. _Changes of loading on the crust_ due to remove/add water mass at a certain location.
-
-
-
-
-<br/>
