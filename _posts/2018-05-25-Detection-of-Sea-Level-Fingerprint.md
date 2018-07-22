@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Detection of Sea Level Fingerprint
-date:       2018-05-25
+date:       2017-07-30
 summary:    SLF's first detection through the use of GRACE - a NASA remote sensing data
 categories: project
 thumbnail:  globe

@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      A Study of the Ooyama’s Moist Convection Model
-date:       2018-07-20
+date:       2012-06-29
 summary:    A Study of Time Integration Techniques in Ooyama’s Moist Convection Model
 categories: project
 thumbnail:  server
@@ -29,5 +29,5 @@ Crank-Nickolson and Adam-Bashforth method is used in the study to add the eddy d
 To increase the efficiency of our model, we also propose to use the non-divengent wind in the model.
 There are total four different background scenarios applied in the model to show the evolution of rising dry air bubble.
 
-The figure below is showing the entropy evolution of rising dry air bubble under one of the background scenarios.  
+The figure below is showing the entropy evolution of rising dry air bubble under one of the background scenarios with an inversion layer on top of the rising bubble.  
 ![airbubble](https://chiaweh2.github.io/figures/dry_air.png)
