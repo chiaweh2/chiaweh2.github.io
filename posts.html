@@ -21,9 +21,18 @@ make-smaller-titles: true
       <div class="col-md-12 content-panel articles">
         <h2 id="{{ this_year }}-ref">{{ this_year }}</h2>
         <ul>
+           {% else %}
+			<div class="col-md-12 content-panel articles">
+		    <h2 id="{{ this_year }}-ref">{{ this_year }}</h2>
+		    <ul>
            {% endif %}
       {% endif %}
            {% if post.categories contains "post" %}
+          <li>
+            <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+            <small class="hidden-xs">{{ post.date | date: "%B %-d, %Y" }}</small>
+          </li>
+           {% else %}
           <li>
             <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
             <small class="hidden-xs">{{ post.date | date: "%B %-d, %Y" }}</small>
