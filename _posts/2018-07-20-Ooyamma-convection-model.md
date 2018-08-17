@@ -7,8 +7,7 @@ categories: project
 thumbnail:  server
 tags:
  - science
- - geodesy
- - oceanography
+ - atmosphere
 ---
 
 The study focuses on exploring the performance of the two spectral methods that are used in the least assumption moist convection model in the atmosphere.
