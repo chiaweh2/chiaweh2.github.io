@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Closing the Global Sea Level Budget
-date:       2015-06-15
+date:       2018-06-15
 summary:    SLF's first detection through the use of GRACE - a NASA remote sensing data
 categories: project
 thumbnail:  globe
@@ -44,4 +44,4 @@ If we focus on the total mass change over the ocean (Sum in the above figure), w
 3. The linear trend showed by the green line indicates a $$1.7 mm/yr$$ increase of $$\Delta SL_{mass}$$ based on the past 14 years of GRACE observation.   
 
 
-This project not just focusing on closing the current global sea level budget. Through studying how each component contributes to the total sea level, we can also better understand and predict the future sea level changes.
+This project focuses not just on closing the current global sea level budget, but also helps us to better understand and predict the future sea level changes through studying how each component contributes to the total sea level.
