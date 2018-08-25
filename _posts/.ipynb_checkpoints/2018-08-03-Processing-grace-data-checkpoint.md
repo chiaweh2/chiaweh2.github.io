@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      The importance of spatial scaling to the GRACE satellite data
+title:      Spatial scaling - GRACE satellite data
 date:       2018-08-24
 summary:    Explain the processing steps of GRACE
 categories: post
