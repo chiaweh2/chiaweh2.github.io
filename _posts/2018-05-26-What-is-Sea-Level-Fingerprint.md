@@ -26,7 +26,7 @@ Try clicking off some of the components in the figure to see more detail variati
 
 **Global** mean sea level, however, cannot represent **local** sea level changes.
 Local sea level changes are affected by many different regional physical processes that varies spatially.
-Sea level fingerprint is one of the processes that changes the regional sea level due to **water mass redistribution in the entire Earth system**.
+Sea level fingerprint is one of the processes that change the regional sea level due to **water mass redistribution in the entire Earth system**.
 
 While the explanation above makes a lot of sense to me, I understand it still lacks detail description.
 For instance,
@@ -42,7 +42,7 @@ These different forms of water (**water mass**) can move around (**redistribute*
 
 Base on the above concept, it seems quite straightforward that the sea level would change if there is any water mass move from atmosphere or continent into the ocean.
 In another word, the **global** sea level rises when water mass is added into the ocean and the **global** sea level falls when water mass is removed from the ocean.
-You may notice that I put emphasis on the word "**global**" in the above sentence since we do not have enough information to  deduce how the water mass added/remove from the ocean would affect the sea level regionally.
+You may notice that I put emphasis on the word "**global**" in the above sentence since we do not have enough information to deduce how the water mass added/remove from the ocean would affect the sea level regionally.
 
 Most people or even some scientists would just assume that this water redistribution between ocean and atmosphere (or between ocean and continent) causes the sea level to change **uniformly**.
 This assumption is not true because that the tides and ocean currents can move the water around.
@@ -56,10 +56,11 @@ The **redistribution of water mass** cause two instantaneous responses within th
 2. _Changes of loading on the crust_ due to remove/add water mass at a certain location.
 
 <br>
-For example, if the ice on land melted away, the **gravity attraction decrease** due to the missing ice.
-This leads to the nearby ocean water to move away from the region where the ice melted.
-Besides the gravity field changes, the surface of the Earth (crust) move up due to less weight on top.
-This is called the **elastic response** which is similar to the spring bounding back up once the force on top is removed.
-The combined effect results in decreasing height between the sea surface and seafloor (sea level drop) in the nearby region and increasing height (sea level rise) in the far field.
-This combined effect is also called sea level fingerprint or self-attraction and loading effect.
+Take the above figure as our example, when the Greenland ice sheet on land started to melt away, the **gravity attraction decreased** due to the missing ice mass on land.
+This lead to the nearby ocean water to move away from the region where the ice melted.
+Besides the changes of the gravity field, the surface of the Earth (crust) moved up due to less weight on top.
+This is called the **elastic response** which is similar to the spring bounding back up once the force on top is removed. 
+This upward movement of the crust resulted in the uplift of the seafloor near the region of ice melt.
+The combined effect is the decreasing height between the sea surface and seafloor (sea level drop) in the region close to the melting ice and increasing height (sea level rise) in the region far away from the melting ice.
+This unique spatial pattern of sea level is also called sea level fingerprint or self-attraction and loading effect.
 
