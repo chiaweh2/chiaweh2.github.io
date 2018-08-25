@@ -18,10 +18,10 @@ Each processing center generates the solution based on the range differences obs
 This also provide an opportunity for inter-comparison on the processing steps between solutions.
 
 Due to the many processing steps needed, the detected signal in the the GRACE data is smoothed out. Meaning the maximum signal would distributed over a larger area despite the original signal is over a much smaller area. To give you a sense of how a regular GRACE data after many processing applied would look like, the following figure shows this what we called **unscaled** data over the Greenland region. 
-![unscale](https://github.com/chiaweh2/chiaweh2.github.io/blob/master/figures/regress_gisnoscale.pdf)
+![unscale](https://chiaweh2.github.io/figures/regress_gisnoscale.png)
 
 To overcome this smoothing problem in the GRACE data, I use the method describe in my published paper[[Hsu and Velicogna, 2017]](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1002/2017GL074070) to show how big a difference it can be if one did not restore the signal properly. The following figure shows the **scaled** GRACE data over the same area.
-![scale](https://github.com/chiaweh2/chiaweh2.github.io/blob/master/figures/regress_gisscale.pdf)
+![scale](https://chiaweh2.github.ios/figures/regress_gisscale.png)
 
 Notice the large changes in maximum value which makes the color saturated and also the shift of maximum value to a much reasonable region where has the mass loss due to ice melting. 
 

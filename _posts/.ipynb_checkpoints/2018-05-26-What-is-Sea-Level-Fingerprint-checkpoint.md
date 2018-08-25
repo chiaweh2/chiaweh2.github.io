@@ -48,7 +48,7 @@ Most people or even some scientists would just assume that this water redistribu
 This assumption is not true because that the tides and ocean currents can move the water around.
 However, even without the influence of tides and ocean current, sea level will not change uniformly over the entire global ocean when you take away the water mass from the continent (or the atmosphere) and add that into the ocean.
 The regional sea level rising signal would actually look like this based on the recent decade of ice melting on Greenland.
-![grnslf](https://github.com/chiaweh2/chiaweh2.github.io/blob/master/figures/regress_gisslf.pdf)
+![grnslf](https://chiaweh2.github.io/figures/regress_gisslf.png)
 
 
 The **redistribution of water mass** cause two instantaneous responses within the Earth system.
