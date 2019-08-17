@@ -2,26 +2,20 @@ skills:
     title: Skills &amp; Proficiency
     skills:
         - skill:
-          name: Fortran & C++
-          level: 91%
+          name: Python
+          level: 80%
         - skill:
-          name: Python & R
-          level: 92%
+          name: Xarray & Pandas
+          level: 80%
         - skill:
-          name: Scikit-learn & TensorFlow
-          level: 61%
-        - skill:
-          name: SQL
-          level: 65%
-        - skill:
-          name: HTML5 & CSS
+          name: Matplotlib & Cartopy
           level: 70%
         - skill:
-          name: PHP & javascript
-          level: 69%
+          name: Dask
+          level: 30%
         - skill:
-          name: MPI & OpenMP
-          level: 79%
+          name: Scikit-learn
+          level: 30%
         - skill:
-          name: Unittest & pytest
-          level: 55%
+          name: TensorFlow
+          level: 30%

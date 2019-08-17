@@ -7,9 +7,19 @@ make-smaller-titles: true
 <div class="container-fluid index">
   <div class="row">
 
+
+
+
     <h1 class="header author-header" itemprop="headline"><font color="white">Post</font></h1>
 
-
+		<div class="col-md-12 content-panel articles" >
+		<hr/>
+							<!-- <h2 class='header'><font color="white">Chia-Wei's Twitter</font></h2> -->
+							<div align='center'>
+								<a class="twitter-timeline" data-width="500" data-height="500" data-theme="dark" data-link-color="#FAB81E" href="https://twitter.com/Hsu_Chia_Wei?ref_src=twsrc%5Etfw">Tweets by Hsu_Chia_Wei</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+		 					</div>
+							<!-- <hr/> -->
+		</div>
     {% for post in site.posts %}
 
 
@@ -55,6 +65,7 @@ make-smaller-titles: true
 
 
     {% endfor %}
+
 
 
 
