@@ -25,42 +25,41 @@ Try clicking off some of the components in the figure to see more detail variati
 
 
 **Global** mean sea level, however, cannot represent **local** sea level changes.
-Local sea level changes are affected by many different regional physical processes that varies spatially.
+Local sea level changes are affected by many different regional physical processes that vary spatially.
 Sea level fingerprint is one of the processes that change the regional sea level due to **water mass redistribution in the entire Earth system**.
 
-While the explanation above makes a lot of sense to me, I understand it still lacks detail description.
+While the explanation above makes a lot of sense to me, I understand it still lacks a detailed description.
 For instance,
 1. " What is **water mass redistribution in the entire Earth system?** "
 2. " Why **it causes regional sea level changes?** "
 
 
 Let us focus on the first question. **What is water mass redistribution in the entire Earth system?**
-There are total three reservoirs which can store water in the Earth system.
+There is a total of three reservoirs that can store water in the Earth system.
 They are the atmosphere, the ocean, and the continent.
 In each reservoir, water is stored in the form of water vapor, liquid water, or solid ice.
-These different forms of water (**water mass**) can move around (**redistribute**) between reservoirs based on some physical processes like river runoff (continent to ocean), precipitation (atmosphere to ocean or continent), evaporation (continent or ocean to atmosphere), ice discharge (continent to ocean), etc.
+These different forms of water (**water mass**) can move around (**redistribute**) between reservoirs based on some physical processes like river runoff (continent to the ocean), precipitation (atmosphere to ocean or continent), evaporation (continent or ocean to atmosphere), ice discharge (continent to the ocean), etc.
 
-Base on the above concept, it seems quite straightforward that the sea level would change if there is any water mass move from atmosphere or continent into the ocean.
+Base on the above concept, it seems quite straightforward that the sea level would change if there is any water mass move from the atmosphere or continent into the ocean.
 In another word, the **global** sea level rises when water mass is added into the ocean and the **global** sea level falls when water mass is removed from the ocean.
-You may notice that I put emphasis on the word "**global**" in the above sentence since we do not have enough information to deduce how the water mass added/remove from the ocean would affect the sea level regionally.
+You may notice that I emphasize the word "**global**" in the above sentence since we do not have enough information to deduce how the water mass added/remove from the ocean would affect the sea level regionally.
 
 Most people or even some scientists would just assume that this water redistribution between ocean and atmosphere (or between ocean and continent) causes the sea level to change **uniformly**.
 This assumption is not true because that the tides and ocean currents can move the water around.
-However, even without the influence of tides and ocean current, sea level will not change uniformly over the entire global ocean when you take away the water mass from the continent (or the atmosphere) and add that into the ocean.
-The regional sea level rising signal would actually look like this based on the recent decade of ice melting on Greenland.
+However, even without the influence of tides and ocean currents, sea level will not change uniformly over the entire global ocean when you take away the water mass from the continent (or the atmosphere) and add that into the ocean.
+The regional sea level rising signal would look like this based on the recent decade of ice melting on Greenland.
 ![grnslf](https://chiaweh2.github.io/figures/regress_gisslf.png)
 
 
-The **redistribution of water mass** cause two instantaneous responses within the Earth system.
+The **redistribution of water mass** causes two instantaneous responses within the Earth system.
 1. _Changes of gravity field_ due to mass redistribution.
 2. _Changes of loading on the crust_ due to remove/add water mass at a certain location.
 
 <br>
 Take the above figure as our example, when the Greenland ice sheet on land started to melt away, the **gravity attraction decreased** due to the missing ice mass on land.
-This lead to the nearby ocean water to move away from the region where the ice melted.
+This causes the nearby ocean water to move away from the region where the ice melted.
 Besides the changes of the gravity field, the surface of the Earth (crust) moved up due to less weight on top.
-This is called the **elastic response** which is similar to the spring bounding back up once the force on top is removed. 
+This is called the **elastic response** which is similar to the spring bounding back up once the force on top is removed.
 This upward movement of the crust resulted in the uplift of the seafloor near the region of ice melt.
 The combined effect is the decreasing height between the sea surface and seafloor (sea level drop) in the region close to the melting ice and increasing height (sea level rise) in the region far away from the melting ice.
 This unique spatial pattern of sea level is also called sea level fingerprint or self-attraction and loading effect.
-
