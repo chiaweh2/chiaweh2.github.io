@@ -19,7 +19,7 @@ We find that sea level biases across different time scales are strongly related 
 ![All_time_scales](https://chiaweh2.github.io/figures/Sea_level_bias_post/Slide1.png)
 For instance, the trend bias in the left panel is significantly reduced in the simulation forced by new reanalysis data from JRA55-do compare to the previous CORE forcing due to the improved wind stress trend signal in the eastern tropical Pacific.
 Over the seasonal time scale in the middle panel, due to the more accurate timing of wind stress curl forcing in the JRA55-do, a more accurate first baroclinic Rossby wave in the form of sea level helped generate a more realistic seasonal amplitude and phase of North Equatorial Counter Current (NECC).
-The improved wind forcing also shows improved sea level simulation during El Nino shown in the right panel.
+The improved wind forcing also shows improved sea level simulation during El Niño shown in the right panel.
 
 ![trend](https://chiaweh2.github.io/figures/Sea_level_bias_post/Slide2.png)
 To understand what causes the trend bias, we analyze the surface forcing data and find that the bias of westerly wind trend in the eastern tropical Pacific in CORE is the main reason to cause the positive wind stress curl bias.
@@ -34,9 +34,9 @@ The timing of the Rossby wave propagation across the Pacific ocean plays an impo
 Especially for NECC, which is affected by the meridional sea level gradient in the tropics, we find the timing of initiating the Rossby wave near the coastline of eastern tropical Pacific is the main reason of the accurate NECC phase in the JRA55-do forced simulation when comparing with observed values.
 From the Hovmöller diagram showing in the right panel, a wind stress curl forcing that started too earlier at the start of the year near 90W in CORE generates a Rossby wave too early when comparing with the observational data.
 
-![Elnino](https://chiaweh2.github.io/figures/Sea_level_bias_post/Slide4.png)
-The improved wind forcing also shows improved sea level simulation during El Nino.
-Though the sea level and thermal structure changes during the El Nino is still dominated by the Kelvin wave along the equator and by the Rossby wave on two sides of the equator.
+![ElNiño](https://chiaweh2.github.io/figures/Sea_level_bias_post/Slide4.png)
+The improved wind forcing also shows improved sea level simulation during El Niño.
+Though the sea level and thermal structure changes during the El Niño is still dominated by the Kelvin wave along the equator and by the Rossby wave on two sides of the equator.
 We find the Ekman pumping that is associated with the wind stress curl also plays important role on the local sea level changes.
 The regression between sea level and wind stress curl at each grid point over the tropical Pacific is shown in the figure above.
 We can also see that the local wind forcing also contributes to an asymmetric sea level pattern on two sides of the equator during El Niño period.
