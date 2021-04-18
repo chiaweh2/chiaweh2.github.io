@@ -24,7 +24,7 @@ The improved wind forcing also shows improved sea level simulation during El Ni√
 ![trend](https://chiaweh2.github.io/figures/Sea_level_bias_post/Slide2.png)
 To understand what causes the trend bias, we analyze the surface forcing data and find that the bias of westerly wind trend in the eastern tropical Pacific in CORE is the main reason to cause the positive wind stress curl bias.
 The westerly at the equator creates a Ekman suction bias north of the equator which results in the sea level to bias low in the model simulation.
-The bias of „Ñá easterly wind trend around 20N also contribute to the zonally structured the sea level trend bias which still exist in the JRA55-do forced simulation near the date line.
+The bias of easterly wind trend around 20N also contribute to the zonally structured the sea level trend bias which still exist in the JRA55-do forced simulation near the date line.
 
 ![season](https://chiaweh2.github.io/figures/Sea_level_bias_post/Slide3.png)
 Over the seasonal time scale, sea level changes over the tropic are dominated by the first baroclinic Rossby wave between 0-10N.
