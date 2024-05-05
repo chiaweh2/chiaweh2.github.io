@@ -2,20 +2,20 @@ skills:
     title: Skills &amp; Proficiency
     skills:
         - skill:
-          name: Python
+          name: Python (Xarray & Pandas & Dask & Pangeo Software Stack)
           level: 80%
-        - skill:
-          name: Xarray & Pandas
-          level: 80%
-        - skill:
-          name: Matplotlib & Cartopy
+        - skill:  
+          name: Frontend development (HTML & CSS & JavaScript & JQuery)
           level: 70%
         - skill:
-          name: Dask
+          name: Backend development (Python Flask & Node.js)
+          level: 70%
+        - skill:
+          name: CI/CD (unittest & Github Action)
+          level: 50%
+        - skill:
+          name: Deep Learning (Tensor-Flow & PyTorch)
           level: 30%
         - skill:
-          name: Scikit-learn
-          level: 30%
-        - skill:
-          name: TensorFlow
+          name: Retrieval-Augmented Generation (RAG) 
           level: 30%

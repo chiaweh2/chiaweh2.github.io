@@ -1,11 +1,11 @@
 # Site settings
 title: "Dr. Chia-Wei Hsu"
 author_name: "Chia-Wei Hsu"
-email: chia-wei.hsu@colorado.edu
-description: "Chia-Wei Hsu's space"
+email: chia-wei.hsu@noaa.gov
+description: "Chia-Wei Hsu's page"
 baseurl: ""
 url: ""
-title_description: "Associate Scientist (focusing on climate science) @ NOAA PSL / CU CIRES, Boulder."
+title_description: "Associate Scientist III @ NOAA PSL / CU CIRES, Boulder."
 title_image: "https://chiaweh2.github.io/figures/me.png"
 google_analytics: "UA-20365477-4"
 github_repository: https://github.com/chiaweh2
